@@ -37,6 +37,8 @@ Currently, I'm focused on improving my technical skills and learning **AI automa
 
 - 💼 LinkedIn: www.linkedin.com/in/ayush-dwivwdi9-506361388
 - 🌐 Portfolio: [Coming Soon]
+- 📸 Instagram: [https://www.instagram.com/ayush_dwivedi207/]
+ 
 
 ---
 
