@@ -1,5 +1,6 @@
 # Hi, I'm Ayush 👋
 
+---
 ### BCA Student | Full-Stack Developer in Progress | AI & Automation
 
 I'm a BCA student interested in technology, web development, AI, and automation.
@@ -7,6 +8,7 @@ I'm a BCA student interested in technology, web development, AI, and automation.
 I enjoy learning by building projects and exploring new technologies.  
 Currently, I'm focused on improving my technical skills and learning **AI automation**.
 
+---
 ### 🚀 What I'm Doing
 
 - 🔨 Building projects to learn and improve
@@ -15,6 +17,7 @@ Currently, I'm focused on improving my technical skills and learning **AI automa
 - 📚 Exploring new technologies and development tools
 - 🌱 Looking to get involved in open source
 
+---
 ### 🛠️ Technologies & Tools
 
 **Languages**
@@ -29,17 +32,17 @@ Currently, I'm focused on improving my technical skills and learning **AI automa
 - React
 - Node.js
 
+---
 ### 🎯 Current Focus
 
 > Learning AI automation and becoming better in the tech field through consistent building and experimentation.
 
+---
 ### 🌐 Connect With Me
 
-- 💼 LinkedIn: www.linkedin.com/in/ayush-dwivwdi9-506361388
 - 🌐 Portfolio: [Coming Soon]
+- 💼 LinkedIn: www.linkedin.com/in/ayush-dwivwdi9-506361388
 - 📸 Instagram: [https://www.instagram.com/ayush_dwivedi207/]
- 
-
 ---
 
 ⭐ Thanks for visiting my profile!
